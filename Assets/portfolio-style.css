@@ -1,0 +1,16 @@
+body {
+    background-image: url("images/double-bubble-dark.png");
+}
+.mg {
+    margin-bottom: 50px;
+}
+.mg2 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+p {
+    font-family: 'Concert One', cursive;
+}
+.fantasy {
+    font-family: fantasy;
+}
