@@ -1,7 +1,11 @@
 I was tasked to make a responsive portfolio web pages. I had implemented Bootstrap and tweaked the code to my liking.
 The project was tough but the lessons were invaluable. 
-Here is a link to my website 
+Here is a link to my website https://mh4454.github.io/Responsive-Portfolio/
 
+Below are screenshots with the background working.
+<img src="./Assets/Images/indexpic.PNG">
+<img src="./Assets/Images/Contactpic.PNG">
+<img src="./Assets/Images/Portfoliopic.PNG">
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
